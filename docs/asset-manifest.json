@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Random-Figma-Layout-2/static/css/main.b4bc38d3.chunk.css",
+    "main.js": "/Random-Figma-Layout-2/static/js/main.950cb97e.chunk.js",
+    "main.js.map": "/Random-Figma-Layout-2/static/js/main.950cb97e.chunk.js.map",
+    "runtime-main.js": "/Random-Figma-Layout-2/static/js/runtime-main.6c0c892a.js",
+    "runtime-main.js.map": "/Random-Figma-Layout-2/static/js/runtime-main.6c0c892a.js.map",
+    "static/js/2.df3db9a5.chunk.js": "/Random-Figma-Layout-2/static/js/2.df3db9a5.chunk.js",
+    "static/js/2.df3db9a5.chunk.js.map": "/Random-Figma-Layout-2/static/js/2.df3db9a5.chunk.js.map",
+    "index.html": "/Random-Figma-Layout-2/index.html",
+    "precache-manifest.d255abd128c371ed44e927e8b3d316bd.js": "/Random-Figma-Layout-2/precache-manifest.d255abd128c371ed44e927e8b3d316bd.js",
+    "service-worker.js": "/Random-Figma-Layout-2/service-worker.js",
+    "static/css/main.b4bc38d3.chunk.css.map": "/Random-Figma-Layout-2/static/css/main.b4bc38d3.chunk.css.map",
+    "static/js/2.df3db9a5.chunk.js.LICENSE.txt": "/Random-Figma-Layout-2/static/js/2.df3db9a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c0c892a.js",
+    "static/js/2.df3db9a5.chunk.js",
+    "static/css/main.b4bc38d3.chunk.css",
+    "static/js/main.950cb97e.chunk.js"
+  ]
+}
